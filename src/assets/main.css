@@ -1,0 +1,28 @@
+@import './reset.css';
+
+.middle {
+    max-width: 1280px;
+    margin: 0 auto;
+    font-weight: normal;
+    min-height: 20rem;
+}
+
+h1{
+    color: #002c6a;
+    font-size: 2rem;
+    font-weight: 400;
+    line-height: 2.43rem;
+    display: block;
+    text-align: center;
+    padding: 3rem 0;
+}
+
+h2{
+    color: #002c6a;
+    font-size: 1.87rem;
+    font-weight: 400;
+    line-height: 2rem;
+    display: block;
+    text-align: center;
+    padding: 3rem 0 1.50rem;
+}
